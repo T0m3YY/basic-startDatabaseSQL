@@ -1061,4 +1061,5 @@ INNER JOIN Maten ON Sweaters.maat_id = Maten.maat_id;
     -- Toon alleen items waarvan de voorraad lager is dan 5 en van laag naar hoog 
     WHERE Sweaters.voorraad < 5 ORDER BY Sweaters.voorraad ASC;
 
+
     
