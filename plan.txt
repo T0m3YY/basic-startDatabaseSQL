@@ -1,0 +1,69 @@
+Plan van aanpak
+
+Je gaat een eigen winkel beginnen!
+Bedenk wat voor product je wilt gaan verkopen en welke eigenschappen je van het
+product op wilt slaan. Dus bv. welke maten verkoop je, welke kleuren, welke
+merken, welk materiaal, wat is er in voorraad, wat is de prijs, etc.
+
+(voor later kan ik deze vid kijken voor het koppelen van een database: https://youtu.be/C0y35FpiLRA?feature=shared)
+
+------------------------------
+
+PRODUCT
+minmaal 5 eigenschappen
+
+    Sweaters;
+        merken [3] (
+            Brand
+            Merk
+            Marca
+        );
+        kleuren (
+            Blauw
+            Rood
+            Groen
+        );
+        maat (
+            1
+            2
+            3
+        );
+        stijl (
+            Formeel
+            Sportief
+            Casual
+        );
+        materiaal (
+            katoen
+            Linnen
+            Polyester
+        )
+
+        prijs (
+            varieert
+        );
+        voorraad (
+            varieert
+        )
+
+
+
+
+
+CREATE TABLES
+
+    - tables maken voor alle eigenschappen
+    -
+    -
+    -
+
+
+SELECT STATEMENTS
+
+    - ongelofelijk veel soorten sweaters maken 
+    -
+    -
+    -
+    -
+
+    
